@@ -4,7 +4,7 @@ Desafio de projeto sobre Git/Github
 <meta charset="utf-8">
         <head>
                 <img src="img.jogo.jpg" height="50%" width="100%"></>
-                <h1 style="color:cyan;" align="center">Projeto Integrador</h1>
+                <h1 style="color:cyan;" align="center">Criação da Página</h1>
                 <img src="bg.png" heigth="30%" width="15%" align"left"></>
                 <title>Meu site HTML</title>
         </head>
